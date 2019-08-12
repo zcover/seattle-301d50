@@ -187,4 +187,4 @@ console.log(joe.scopeArrow());
 // 2. What is "this" when joe.scopeArrow() is invoked?
 //  I do not know, it tried to find "this", but "this" does not work with => format, and therefor had errors applied to it.
 // 3. Explain why "this" is different when an arrow function is used.
-// Arrow Function doesn't like ownership tags. Everything should belong to it. All your base are belong to us
+// Arrow Function doesn't like ownership tags. Everything should belong to it. All your base are belong to us"
